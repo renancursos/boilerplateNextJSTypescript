@@ -1,1 +1,1 @@
-## Next boilerplate TS
+## NextJS boilerplate TS
